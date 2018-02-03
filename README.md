@@ -3,7 +3,7 @@ The objective of this challenge is to analyse a packet capture (.pcap file) and 
 
 All of the messages are the names of famous films. To complete the challenge you must provide A) a list of all the film names, B) the network protocol in which you found them.
 
-There are 6 film names to be found. 
+There are 7 film names to be found. 
 
 
 # Getting Started
